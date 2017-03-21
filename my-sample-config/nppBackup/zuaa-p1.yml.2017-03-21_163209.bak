@@ -1,0 +1,7 @@
+my-config:
+  appName: my-app-nowzuaa-p1--aa
+  hikari:
+   poolName: HikariCP
+   minimumIdle: 5
+   maximumPoolSize: 25
+   connectionTimeout: 30000
